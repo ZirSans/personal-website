@@ -85,9 +85,10 @@ p{
 }
 
 .text-uppercase{
-    color: aqua;
+    color: cyan;
 }
 
 .ft{
-    color: aquamarine;
+    color: rgb(41, 41, 255);
+    margin-bottom: 2cm;
 }
