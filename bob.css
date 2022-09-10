@@ -1,0 +1,93 @@
+header{
+    background: fixed url();
+    height: 70vh;
+    -webkit-background-size: cover;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 40rem;
+    background-color: aqua;
+}
+
+.sticky{
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+header img{
+    width: 140px;
+}
+
+header h2{
+    font-family: "pacifico", cursive;
+    font-size: 50px;
+}
+
+.nick{
+    margin: 10px;
+    color: black;
+}
+
+.icon{
+    margin: 10px;
+}
+
+.page-section{
+    background-color: whitesmoke;
+    padding-bottom: 20rem;
+}
+
+h3{
+    padding-top: 30px;
+}
+
+.pop{
+    padding-top: 30px;
+    margin: 10px;
+    
+}
+
+.about{
+    background-color: aqua;
+    padding-bottom: 2cm;
+}
+
+.ms-auto{
+    margin-left: auto !important;
+}
+
+.lead{
+    font-size: 1.25rem;
+    font-weight: 300;
+    padding-top: 2rem;
+}
+
+p{
+    margin-top: 0;
+    margin-bottom: 1rem;
+}
+
+.contact{
+    padding-top: 2rem;
+    padding-bottom: 3cm;
+}
+
+.c1{
+    padding-bottom: 2rem;
+}
+
+.footer{
+    padding-top: 2rem;
+    background-color: black;
+}
+
+.text-uppercase{
+    color: aqua;
+}
+
+.ft{
+    color: aquamarine;
+}
